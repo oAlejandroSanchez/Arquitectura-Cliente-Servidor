@@ -24,5 +24,5 @@ usar las siguientes funciones: fork() y exec() o la función popen()
 respuesta en pantalla
 
 <div align="center">
-  <img src="./Imagenes/Arquitectura.jpg" alt="Arquitectura" width="475" height="400">
+  <img src="./Imagenes/Arquitectura.jpg" alt="Arquitectura" width="650" height="400">
 </div>
