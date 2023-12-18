@@ -16,6 +16,6 @@ Finalmente, se ejecuta el programa de la siguiente forma: `./cliente <IP del hos
 
 ## Funcionamiento del programa
 En la siguiente imagen se muestra la salida que se tiene al ejecutar el programa: 
-<div>
-    <img src="/images/Examen_parcial.png" align="center">
+<div style="justify: cneter;">
+    <img src="/images/Examen_parcial.png">
 </div>
